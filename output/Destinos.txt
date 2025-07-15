@@ -1,0 +1,4 @@
+Jupiter 7000
+La_Luna 5000
+Marte 6000
+Saturno 8000
